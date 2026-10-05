@@ -84,14 +84,14 @@
 
 ```bash
 $ whoami
-Taroll <br>
+Taroll
 — 可以叫我芋圆
 
 $ current_focus
 - ✨ AI Agent
 - 📝 后端开发
 - 🔭 本科毕设
-- 💬 等offer
+- 💬 等offer ——> HK
 - 🌱 探索世界
 
 $ stack
