@@ -94,12 +94,15 @@ LangGraph/LangChain, Langfuse/LangSmith，FastAPI, PostgreSQL, Redis, ChromaDB, 
 
 ## 🛠 Stack
 
-<img src="https://img.shields.io/badge/Python-E0578A?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C-E0578A?style=flat-square&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/MATLAB-E0578A?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
-<img src="https://img.shields.io/badge/MySQL-E0578A?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Java-E0578A?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/FastAPI-E0578A?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="chips/label-agents.svg" height="22" alt="AGENTS"> <img src="chips/mcp.svg" height="30" alt="MCP">&nbsp; <img src="chips/a2a.svg" height="30" alt="A2A">&nbsp; <img src="chips/agent-skills.svg" height="30" alt="Agent Skills">&nbsp; <img src="chips/langgraph.svg" height="30" alt="LangGraph">&nbsp; <img src="chips/pydantic-ai.svg" height="30" alt="Pydantic AI">&nbsp; <img src="chips/temporal.svg" height="30" alt="Temporal">&nbsp; <img src="chips/playwright.svg" height="30" alt="Playwright">&nbsp; <img src="chips/langfuse-langsmith.svg" height="30" alt="Langfuse / LangSmith">&nbsp; <img src="chips/sse.svg" height="30" alt="SSE">&nbsp;
+
+<img src="chips/label-inference.svg" height="22" alt="INFERENCE"> <img src="chips/vllm.svg" height="30" alt="vLLM">&nbsp; <img src="chips/sglang.svg" height="30" alt="SGLang">&nbsp; <img src="chips/tensorrt-llm.svg" height="30" alt="TensorRT-LLM">&nbsp; <img src="chips/llamacpp.svg" height="30" alt="llama.cpp">&nbsp; <img src="chips/mlx.svg" height="30" alt="MLX">&nbsp; <img src="chips/ray.svg" height="30" alt="Ray">&nbsp; <img src="chips/modal.svg" height="30" alt="Modal">&nbsp;
+
+<img src="chips/label-training.svg" height="22" alt="TRAINING"> <img src="chips/pytorch.svg" height="30" alt="PyTorch">&nbsp; <img src="chips/transformers.svg" height="30" alt="Transformers">&nbsp; <img src="chips/trl.svg" height="30" alt="TRL">&nbsp; <img src="chips/verl.svg" height="30" alt="verl">&nbsp; <img src="chips/unsloth.svg" height="30" alt="Unsloth">&nbsp; <img src="chips/wandb.svg" height="30" alt="W&B">&nbsp; <img src="chips/cuda.svg" height="30" alt="CUDA">&nbsp;
+
+<img src="chips/label-ragdata.svg" height="22" alt="RAGDATA"> <img src="chips/pgvector.svg" height="30" alt="pgvector">&nbsp; <img src="chips/qdrant.svg" height="30" alt="Qdrant">&nbsp; <img src="chips/lancedb.svg" height="30" alt="LanceDB">&nbsp; <img src="chips/elasticsearch.svg" height="30" alt="Elasticsearch">&nbsp; <img src="chips/neo4j.svg" height="30" alt="Neo4j">&nbsp; <img src="chips/duckdb.svg" height="30" alt="DuckDB">&nbsp; <img src="chips/polars.svg" height="30" alt="Polars">&nbsp; <img src="chips/chromadb.svg" height="30" alt="ChromaDB">&nbsp; <img src="chips/postgresql.svg" height="30" alt="PostgreSQL">&nbsp; <img src="chips/mysql.svg" height="30" alt="MySQL">&nbsp;
+
+<img src="chips/label-langops.svg" height="22" alt="LANGOPS"> <img src="chips/python.svg" height="30" alt="Python">&nbsp; <img src="chips/uv.svg" height="30" alt="uv">&nbsp; <img src="chips/rust.svg" height="30" alt="Rust">&nbsp; <img src="chips/typescript.svg" height="30" alt="TypeScript">&nbsp; <img src="chips/docker.svg" height="30" alt="Docker">&nbsp; <img src="chips/kubernetes.svg" height="30" alt="Kubernetes">&nbsp; <img src="chips/opentelemetry.svg" height="30" alt="OpenTelemetry">&nbsp;
 
 ---
 
