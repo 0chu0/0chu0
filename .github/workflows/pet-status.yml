@@ -1,0 +1,51 @@
+name: Pet panel refresh
+
+# 每天北京时间 00:23 自动跑一次：查最近一次 push，按天数重画 README 首图里的猫猫看板。
+# 也可以在 Actions 页面手动点 Run workflow 立刻看效果。
+on:
+  schedule:
+    - cron: '23 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pet-panel-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check last push activity
+        id: pet
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PET_USER: 0chu0
+        run: python3 tools/update_pet.py
+
+      - name: Redraw panel
+        run: python3 tools/gen_pet_panel.py ${{ steps.pet.outputs.fill }} pet-panel.svg
+
+      - name: Commit if changed
+        env:
+          MSG: ${{ steps.pet.outputs.msg }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pet-panel.svg
+          if git diff --cached --quiet; then
+            echo "面板状态没变，跳过提交"
+          else
+            git commit -m "$MSG [skip ci]"
+            git push
+          fi
