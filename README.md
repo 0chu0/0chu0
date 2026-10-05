@@ -62,21 +62,14 @@
 
 ## 🩷 About
 
-**Taroll**<br>
-· her/she<br>
-· 中国传媒大学 · 北京<br>
+**Taroll** · her/she · 中国传媒大学 · 北京
 
-> Personal signature： Impossible Empathy<br>
+> impossible empathy
 
-关注 **AI PM / SA** 方向<br>
-正在学习 AI Agent相关技术 & 后端开发<br>
-
-> Agent项目：Triply · AI 智能旅行规划助手 <a href="http://47.95.232.253:8000/app/" target="_blank">→ 在线体验</a><br>
-> 本科毕设：Wi-Fi 穿墙透视原理分析研究与技术实现<br>
-> 探索中...<br>
+关注 **AI PM / SA** 方向，正在做 AI Agent 与后端开发，本科毕设进行中。
 
 > 📌 **开放机会**
-> 目前在找 2027 届实习 / 秋招机会，也欢迎交流技术与项目<br>
+> 目前在找 2027 届实习 / 秋招机会，也欢迎交流技术与项目。
 
 ---
 
@@ -84,14 +77,13 @@
 
 ```bash
 $ whoami
-Taroll
-— 可以叫我芋圆
+Taroll — 可以叫我芋圆
 
 $ current_focus
 - ✨ AI Agent
 - 📝 后端开发
 - 🔭 本科毕设
-- 💬 等offer ——> HK
+- 💬 等offer
 - 🌱 探索世界
 
 $ stack
@@ -149,9 +141,23 @@ LangGraph/LangChain, Langfuse/LangSmith，FastAPI, PostgreSQL, Redis, ChromaDB, 
 
 ## 🏆 Trophy
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=0chu0&theme=radical&no-frame=true&no-bg=true&column=7" alt="Trophy" />
-</div>
+**项目制**
+
+- 国家级｜大学生创新创业训练计划项目 良好结项（2024-2025）
+- 校级｜大学生创新创业训练计划项目 良好结项（2025-2026）
+- 腾讯｜游戏引擎图形学远程课题实践精英人才培养计划 完成项目（2025）
+
+**比赛制**
+
+- 北京市大学生机械创新设计大赛 市二等奖（2024）
+- 拯救者杯 OPENAIGC 开发者大赛 AI 黑马奖（2024）
+- “京彩大创”北京大学生创新创业大赛 校三等奖（2024）
+- 2024年“挑战杯”首都大学生创业计划竞赛 校三等奖（2024）
+- 校级三等奖学金（2025）
+
+**语言**
+
+- 雅思 IELTS 7.0
 
 ---
 
@@ -196,6 +202,8 @@ LangGraph/LangChain, Langfuse/LangSmith，FastAPI, PostgreSQL, Redis, ChromaDB, 
 <div align="center">
 
 **impossible empathy**
+
+🔗 上面是静态展示版 · **真正能动、能上手点的交互版本在这里** → [0chu0.github.io/0chu0](https://0chu0.github.io/0chu0/)
 
 <sub>© 2026 Taroll · 猫猫程序员 · 粉白 Pink &amp; White theme</sub>
 
