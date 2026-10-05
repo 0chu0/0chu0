@@ -22,6 +22,27 @@
 
 <br />
 
+<!-- ============ README 里能点的交互：折叠面板 ============ -->
+<!-- GitHub 会剥掉 README 里的 script / 事件 / 内联样式，<details> 是唯一能点的原生交互 -->
+<details>
+<summary><b>🖱️ 点我展开：猫猫饿了一天长什么样（README 里能点的交互演示）</b></summary>
+
+<div align="center">
+
+<br />
+
+<img src="pet-panel-0.svg" width="500" alt="超过 24h 没理它 → 0% · 0 / 5 · sad" />
+
+<br /><br />
+
+<sub>超过 24h 不理咪 → 血条归零、猫猫变 sad ｜ 真正能点的 Feed / Water / Play 在 <a href="https://0chu0.github.io/0chu0/">可交互完整版</a> 里</sub>
+
+</div>
+
+</details>
+
+<br />
+
 <!-- ============ 动态打字机（粉色，浅/深色双图） ============ -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
