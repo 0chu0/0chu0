@@ -8,16 +8,17 @@
     github-profile-trophy / shields.io / komarev / Platane Snake
   文字颜色沿用 GitHub 默认（自动适配浅色 / 深色）。
 
+  首图 pet-panel.svg 是「猫猫看板」动态 SVG：外观与 index.html 里的看板一致，
+  猫 / 电脑的像素网格与配色 1:1 取自 index.html，纯 SVG 动画（不可交互）。
+
   左侧栏（头像 / 粉丝数 / 成就）与顶部 tab 是 GitHub 原生 UI，
   无法通过 README 自定义 —— 完整双栏版见独立页面 index.html。
-
-  ▶ 剩余待填占位符：{{CV_URL}}
   ============================================================ -->
 
 <div align="center">
 
-<!-- ============ 猫猫程序员 ============ -->
-<img src="cat-programmer.svg" width="600" alt="猫猫程序员 · Taroll" />
+<!-- ============ 猫猫看板 ============ -->
+<img src="pet-panel.svg" width="680" alt="Taroll 的猫猫看板 · 像素风（动态）" />
 
 <br />
 
@@ -47,7 +48,6 @@
 <a href="https://github.com/0chu0"><img src="https://img.shields.io/badge/PORTFOLIO-E0578A?style=outline&logo=googlechrome&logoColor=E0578A" alt="Portfolio" /></a>
 <a href="mailto:3552955252@qq.com"><img src="https://img.shields.io/badge/EMAIL-E0578A?style=outline&logo=mail&logoColor=E0578A" alt="Email" /></a>
 <a href="https://github.com/0chu0"><img src="https://img.shields.io/badge/GITHUB-E0578A?style=outline&logo=github&logoColor=E0578A" alt="GitHub" /></a>
-<a href="{{CV_URL}}"><img src="https://img.shields.io/badge/CV-E0578A?style=outline&logo=readme&logoColor=E0578A" alt="CV" /></a>
 
 <br /><br />
 
@@ -106,7 +106,7 @@ LangGraph/LangChain, Langfuse/LangSmith，FastAPI, PostgreSQL, Redis, ChromaDB, 
 
 <img src="chips/label-inference.svg" height="22" alt="INFERENCE"> <img src="chips/vllm.svg" height="30" alt="vLLM">&nbsp; <img src="chips/sglang.svg" height="30" alt="SGLang">&nbsp; <img src="chips/tensorrt-llm.svg" height="30" alt="TensorRT-LLM">&nbsp; <img src="chips/llamacpp.svg" height="30" alt="llama.cpp">&nbsp; <img src="chips/mlx.svg" height="30" alt="MLX">&nbsp; <img src="chips/ray.svg" height="30" alt="Ray">&nbsp; <img src="chips/modal.svg" height="30" alt="Modal">&nbsp;
 
-<img src="chips/label-training.svg" height="22" alt="TRAINING"> <img src="chips/pytorch.svg" height="30" alt="PyTorch">&nbsp; <img src="chips/transformers.svg" height="30" alt="Transformers">&nbsp; <img src="chips/trl.svg" height="30" alt="TRL">&nbsp; <img src="chips/verl.svg" height="30" alt="verl">&nbsp; <img src="chips/unsloth.svg" height="30" alt="Unsloth">&nbsp; <img src="chips/wandb.svg" height="30" alt="W&B">&nbsp; <img src="chips/cuda.svg" height="30" alt="CUDA">&nbsp;
+<img src="chips/label-training.svg" height="22" alt="TRAINING"> <img src="chips/pytorch.svg" height="30" alt="PyTorch">&nbsp; <img src="chips/transformers.svg" height="30" alt="Transformers">&nbsp; <img src="chips/trl.svg" height="30" alt="TRL">&nbsp; <img src="chips/verl.svg" height="30" alt="verl">&nbsp; <img src="chips/unsloth.svg" height="30" alt="Unsloth">&nbsp; <img src="chips/cuda.svg" height="30" alt="CUDA">&nbsp;
 
 <img src="chips/label-ragdata.svg" height="22" alt="RAGDATA"> <img src="chips/pgvector.svg" height="30" alt="pgvector">&nbsp; <img src="chips/qdrant.svg" height="30" alt="Qdrant">&nbsp; <img src="chips/lancedb.svg" height="30" alt="LanceDB">&nbsp; <img src="chips/elasticsearch.svg" height="30" alt="Elasticsearch">&nbsp; <img src="chips/neo4j.svg" height="30" alt="Neo4j">&nbsp; <img src="chips/duckdb.svg" height="30" alt="DuckDB">&nbsp; <img src="chips/polars.svg" height="30" alt="Polars">&nbsp; <img src="chips/chromadb.svg" height="30" alt="ChromaDB">&nbsp; <img src="chips/postgresql.svg" height="30" alt="PostgreSQL">&nbsp; <img src="chips/mysql.svg" height="30" alt="MySQL">&nbsp;
 
