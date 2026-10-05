@@ -1,0 +1,37 @@
+name: generate-snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 0 点自动更新
+  workflow_dispatch:        # 支持在 Actions 页面手动触发
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Snake (粉白主题)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: 0chu0
+          # 浅色底 + 玫瑰粉蛇身
+          color_snake: "E0578A"
+          background: "FFFDFE"
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
