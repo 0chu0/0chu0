@@ -21,6 +21,8 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    # 机器人自己的提交不能再触发自己，否则无限套娃（不只依赖 [skip ci]）
+    if: github.actor != 'github-actions[bot]'
     steps:
       - name: Checkout
         uses: actions/checkout@v4
