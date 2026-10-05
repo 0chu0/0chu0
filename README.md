@@ -62,19 +62,21 @@
 
 ## 🩷 About
 
-**Taroll** · her/she · 中国传媒大学 · 北京
+**Taroll**<br>
+· her/she<br>
+· 中国传媒大学 · 北京<br>
 
-> impossible empathy
+> impossible empathy<br>
 
-关注 **AI PM / SA** 方向
-正在学习 AI Agent相关技术 & 后端开发
+关注 **AI PM / SA** 方向<br>
+正在学习 AI Agent相关技术 & 后端开发<br>
 
-> Agent项目：Triply · AI 智能旅行规划助手
-> 本科毕设：Wi-Fi 穿墙透视原理分析研究与技术实现
-> 探索中...
+> Agent项目：Triply · AI 智能旅行规划助手<br>
+> 本科毕设：Wi-Fi 穿墙透视原理分析研究与技术实现<br>
+> 探索中...<br>
 
 > 📌 **开放机会**
-> 目前在找 2027 届实习 / 秋招机会，也欢迎交流技术与项目。
+> 目前在找 2027 届实习 / 秋招机会，也欢迎交流技术与项目。<br>
 
 ---
 
@@ -82,7 +84,8 @@
 
 ```bash
 $ whoami
-Taroll — 可以叫我芋圆
+Taroll <br>
+— 可以叫我芋圆
 
 $ current_focus
 - ✨ AI Agent
