@@ -3,6 +3,10 @@ name: Pet panel refresh
 # 每天北京时间 00:23 自动跑一次：查最近一次 push，按天数重画 README 首图里的猫猫看板。
 # 也可以在 Actions 页面手动点 Run workflow 立刻看效果。
 on:
+  # 我自己一 push 就立刻重画，猫马上回满血，不用等半夜
+  push:
+    branches: [main]
+  # 每天北京时间 00:23 兜底跑一次：长时间没提交时，血条要慢慢掉下去
   schedule:
     - cron: '23 16 * * *'
   workflow_dispatch:
