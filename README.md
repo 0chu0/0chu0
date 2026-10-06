@@ -219,6 +219,9 @@ LangGraph/LangChain, Langfuse/LangSmith，FastAPI, PostgreSQL, Redis, ChromaDB, 
 **wifi-densepose-study** — 中国传媒大学本科毕业论文（设计）：Wifi穿墙透视原理分析研究与技术实现
 `WiFi Sensing` `DensePose` `Thesis` · [Repo](https://github.com/0chu0/wifi-densepose-study)
 
+**nfs-binaural_study** — 腾讯游戏引擎图形学远程课题实践精英人才培养计划：AI双耳化渲染
+`Python` `PyTorch` `Spatial Audio` · [Repo](https://github.com/0chu0/nfs-binaural_study)
+
 **0chu0** — 主页展示
 `Profile` `README` · [Repo](https://github.com/0chu0)
 
