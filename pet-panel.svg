@@ -44,20 +44,20 @@
 <rect x="646.00" y="12.00" width="19.00" height="19.00" fill="#F6EEE9" stroke="#3A2F35" stroke-width="2"/>
 <path d="M652.0 18.0 L659.0 25.0 M659.0 18.0 L652.0 25.0" stroke="#3A2F35" stroke-width="2"/>
 <rect x="17.00" y="57.00" width="646.00" height="37.00" fill="#B9A7AE" stroke="#3A2F35" stroke-width="3"/>
-<rect x="25.00" y="65.00" width="122.80" height="21.00" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<rect x="151.80" y="65.00" width="122.80" height="21.00" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<rect x="278.60" y="65.00" width="122.80" height="21.00" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<rect x="405.40" y="65.00" width="122.80" height="21.00" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
+<rect x="25.00" y="65.00" width="122.80" height="21.00" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
+<rect x="151.80" y="65.00" width="122.80" height="21.00" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
+<rect x="278.60" y="65.00" width="122.80" height="21.00" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
+<rect x="405.40" y="65.00" width="122.80" height="21.00" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
 <rect x="532.20" y="65.00" width="122.80" height="21.00" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<text x="340.00" y="116.50" font-size="12.5" fill="#3A2F35" text-anchor="middle" font-weight="normal">0%  ·  0 / 5  ·  sad</text>
+<text x="340.00" y="116.50" font-size="12.5" fill="#3A2F35" text-anchor="middle" font-weight="normal">80%  ·  4 / 5  ·  sad</text>
 <text x="43.00" y="147.00" font-size="19" fill="#E0578A" text-anchor="middle" font-weight="normal" class="beat">♥</text>
 <rect x="29.00" y="159.00" width="28.00" height="176.00" fill="#B9A7AE" stroke="#3A2F35" stroke-width="3"/>
-<rect x="35.00" y="298.60" width="16.00" height="30.40" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<rect x="35.00" y="265.20" width="16.00" height="30.40" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<rect x="35.00" y="231.80" width="16.00" height="30.40" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<rect x="35.00" y="198.40" width="16.00" height="30.40" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
+<rect x="35.00" y="298.60" width="16.00" height="30.40" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
+<rect x="35.00" y="265.20" width="16.00" height="30.40" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
+<rect x="35.00" y="231.80" width="16.00" height="30.40" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
+<rect x="35.00" y="198.40" width="16.00" height="30.40" fill="#F4A6C0" stroke="#3A2F35" stroke-width="2"/>
 <rect x="35.00" y="165.00" width="16.00" height="30.40" fill="#8E7C85" stroke="#3A2F35" stroke-width="2"/>
-<text x="43.00" y="353.00" font-size="11" fill="#3A2F35" text-anchor="middle" font-weight="normal">0%</text>
+<text x="43.00" y="353.00" font-size="11" fill="#3A2F35" text-anchor="middle" font-weight="normal">80%</text>
 <rect x="81.00" y="132.00" width="466.00" height="224.00" fill="#F6EEE9" stroke="#3A2F35" stroke-width="3"/>
 <rect x="84.00" y="317.00" width="460.00" height="36.00" fill="#E4C9B4"/>
 <rect x="84.00" y="317.00" width="460.00" height="3.00" fill="#3A2F35"/>
